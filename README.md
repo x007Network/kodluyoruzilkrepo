@@ -17,6 +17,8 @@ cd kodluyoruzilkrepo
 code .
 
 ```
+## Project Photo
+![Görsel] (./slider-img-4.jpg)
 
 ## Contributing
 Pull requestler kabul edilir.Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
